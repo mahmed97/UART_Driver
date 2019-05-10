@@ -78,5 +78,4 @@ void UART_receiveString(uint8 *Str) {
 		i++;
 	}
 	*Str = '\0';
-
 }
